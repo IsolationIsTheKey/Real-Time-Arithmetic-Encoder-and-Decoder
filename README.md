@@ -123,3 +123,5 @@ void arithmetic_decode_optimized(float value, Probability* probabilities, int le
     decoded_symbols[length] = '\0';
 }
 
+```
+---CURRENTLY WORKING ON THIS PROJECT---
